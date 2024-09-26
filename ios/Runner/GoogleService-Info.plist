@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>237563772625-58mpeghtoef9vda65s2ujepbmn29l31p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBztD6jKX9NxufcS9Y0Ogyg4mDHzrO_XDk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>237563772625</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.com.biznepos
+
+</string>
+	<key>PROJECT_ID</key>
+	<string>bizne-d53d6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bizne-d53d6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:237563772625:ios:2a0cfd7722ed0972640ff0</string>
+	<key>DATABASE_URL</key>
+	<string>https://bizne-d53d6.firebaseio.com</string>
+</dict>
+</plist>
